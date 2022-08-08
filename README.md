@@ -1,2 +1,2 @@
 # starter
-A starter project
+Test project
